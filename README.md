@@ -21,7 +21,7 @@ which is based on the original by [cosmicwanderer7](https://github.com/cosmicwan
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Modifications made by Stefan Ingimarsson: [brief note, e.g. "restructured layout, added embedded/ML content, rewrote ASCII art, added command handling changes"].
+Modifications made by Stefan Ingimarsson.
 
 ---
 
