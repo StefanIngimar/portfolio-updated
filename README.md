@@ -3,25 +3,19 @@
 ## About The Project
 A terminal-style developer portfolio built to showcase skills and projects through a fun, interactive command-line interface.
 
-🌐 **Live Demo:** [www.webprithviyewale.tech](https://cosmicwanderer7.github.io/Terminal-Portfolio/)
-
 ![Terminal Portfolio Screenshot](https://github.com/user-attachments/assets/2934484b-76cb-4e54-97e7-50bf7edc07de)
 
 ### Built With
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Last.fm API](https://www.last.fm/api)
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 ---
 
-## Use This as a Template
+## Use of this template
 
-You are welcome to use this repository as a **template for your own terminal-style portfolio**!  
-Feel free to fork it, modify it, and make it your own. Credit is appreciated but not mandatory.
-
-And don’t forget to ⭐ the project if you find it helpful!
+Special thanks to cosmicwanderer7. The template for this website was created by him.
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
@@ -38,8 +32,6 @@ Based on [this GitHub repository](https://github.com/cosmicwanderer7/portfolio).
 
 ## Contact
 
-- 📧 Email: [yewaleprithvi2003@gmail.com](mailto:yewaleprithvi2003@gmail.com)  
-- 🐦 Twitter: [@PrithviYewale](https://twitter.com/PrithviYewale)  
-- 📸 Instagram: [@prithvi_yewale](https://www.instagram.com/prithvi_yewale)
+TODO
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
