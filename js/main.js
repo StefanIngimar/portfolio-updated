@@ -21,14 +21,14 @@ const commandMap = {
   help: "help",
   aboutme: "aboutme",
   projects: "projects",
-  social: "linkedin",
+  social: "social",
   email: "email",
   // history: "history",
   // sudo: "sudo",
   clear: "clear",
   dev: "dev",
   // twitter: "twitter",
-  // linkedin: "linkedin",
+  linkedin: "linkedin",
   // instagram: "instagram",
   github: "github",
   snake: "snake",
@@ -154,17 +154,20 @@ function commander(cmd) {
     case "aboutme":
       loopLines(aboutme, "color2 margin", 80);
       break;
+    case "social":
+      loopLines(social, "color2 margin", 80);
+      break;
     case "projects":
       loopLines(projects, "color2 margin", 80);
       break;
     case "linkedin":
       loopLines(social, "color2 margin", 80);
       break;
-    case "history":
-      addLine("<br>", "", 0);
-      loopLines(commands, "color2", 80);
-      addLine("<br>", "command", 80 * commands.length + 50);
-      break;
+    // case "history":
+    //   addLine("<br>", "", 0);
+    //   loopLines(commands, "color2", 80);
+    //   addLine("<br>", "command", 80 * commands.length + 50);
+    //   break;
     case "email":
       addLine(
         'Opening mailto:<a href="mailto:stefan.ingimarsson@outlook.com"> stefan.ingimarsson@outlook.com</a>...',

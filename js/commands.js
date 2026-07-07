@@ -1,9 +1,5 @@
-// var dev = "https://dev.to/cosmicwanderer7";
-// var twitter = "https://twitter.com/PrithviYewale";
 var linkedin = "https://www.linkedin.com/in/stefan-ingimarsson-679331261/";
-// var instagram = "https://www.instagram.com/prithvi_yewale/";
 var github = "https://github.com/StefanIngimar";
-// var sudo = "https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1";
 var email = "mailto:stefan.ingimarsson@outlook.com";
 
 let banner = [
@@ -17,11 +13,13 @@ let aboutme = [
   `<div id="aboutme-section">`,
   `<span class='underline'>Hey, I'm Stefan! 👋</span>`,
   "<br>",
-  `<li>🔧 I'm a Software Engineer passionate about fullstack development and UI/UX design.</li>`,
-  `<li>💡 Always eager to learn new technologies and build meaningful digital products.</li>`,
-  `<li>🧠 Experienced in building responsive websites using Next.js and Tailwind CSS.</li>`,
-  `<li>📂 Use the <span class="command">projects</span> command to check out what I’ve built!</li>`,
-  `<li>👥 Looking to collaborate on exciting frontend/backend projects.</li>`,
+  `<li>🔧 I'm a Software Engineer who works across fullstack web dev, embedded systems, and ML.</li>`,
+  `<li>💻 On the web side: building responsive apps with Node.js and Tailwind CSS.</li>`,
+  `<li>⚙️ I also dabble in embedded systems and low-level programming.</li>`,
+  `<li>🧠 Plus some ML — building and experimenting with models.</li>`,
+  `<li>💡 Always eager to learn new tech and build meaningful things, whatever the stack.</li>`,
+  `<li>📂 Use the <span class="command">projects</span> command to check out what I've built!</li>`,
+  `<li>👥 Looking to collaborate on projects across disciplines.</li>`,
   `<li>📫 Contact: <a href="mailto:stefan.ingimarsson@outlook.com">stefan.ingimarsson@outlook.com</a></li>`,
   "</div>",
   "<br>",
@@ -29,16 +27,9 @@ let aboutme = [
 
 let social = [
   "<br>",
-  // 'dev        <a href="' + dev + '" target="_blank">dev.to/cosmicwanderer7</a>',
-  // 'twitter        <a href="' +
-  //   twitter +
-  //   '" target="_blank">twitter.com/PrithviYewale</a>',
   'linkedin       <a href="' +
     linkedin +
     '" target="_blank">linkedin/stefan-ingimarsson</a>',
-  // 'instagram      <a href="' +
-  //   instagram +
-  //   '" target="_blank">instagram/prithvi_yewale</a>',
   'github         <a href="' +
     github +
     '" target="_blank">github/StefanIngimar</a>',

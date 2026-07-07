@@ -330,7 +330,7 @@ hr {
     pointer-events: none;
 }
 
-.bottom-bar .spotify-panel {
+/*.bottom-bar .spotify-panel {
     pointer-events: auto;
     margin: 15px;
 }
@@ -385,8 +385,7 @@ hr {
     text-decoration: underline;
     color: var(--color-spotify-track-info);
 }
-
-pre {
+*/ pre {
     white-space: pre-wrap !important;
     word-break: break-word;
     overflow-wrap: break-word;

@@ -3,7 +3,7 @@ function $(elid) {
 }
 
 var cursor;
-window.onload = init;
+// window.onload = init;
 
 // function init() {
 //   cursor = $("cursor");
