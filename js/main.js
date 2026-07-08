@@ -24,7 +24,7 @@ const commandMap = {
   social: "social",
   email: "email",
   // history: "history",
-  // sudo: "sudo",
+  sudo: "sudo",
   clear: "clear",
   dev: "dev",
   // twitter: "twitter",
@@ -193,10 +193,10 @@ function commander(cmd) {
         scrollToBottom();
       }, 1);
       break;
-    case "dev":
-      addLine("Opening Dev.to...", "color2", 80);
-      newTab(dev);
-      break;
+    // case "dev":
+    //   addLine("Opening Dev.to...", "color2", 80);
+    //   newTab(dev);
+    //   break;
     // case "twitter":
     //   addLine("Opening Twitter...", "color2", 0);
     //   newTab(twitter);
@@ -213,10 +213,10 @@ function commander(cmd) {
       addLine("Opening GitHub...", "color2", 0);
       newTab(github);
       break;
-    // case "sudo":
-    //   addLine("Oh no, you're not an admin...", "color2", 0);
-    //   newTab(sudo);
-    //   break;
+    case "sudo":
+      addLine("Oh no, you're not an admin...", "color2", 0);
+      newTab(sudo);
+      break;
     case "snake":
       runSnakeGame();
       break;

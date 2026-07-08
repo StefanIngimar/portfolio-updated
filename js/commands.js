@@ -1,6 +1,7 @@
 var linkedin = "https://www.linkedin.com/in/stefan-ingimarsson-679331261/";
 var github = "https://github.com/StefanIngimar";
 var email = "mailto:stefan.ingimarsson@outlook.com";
+var sudo = "https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1";
 
 let banner = [
   `<div id="banner-section" class="banner">
